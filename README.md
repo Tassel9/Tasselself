@@ -1,4 +1,4 @@
-# Java后端八股 · 模块目录
+# 模块目录
 
 - [01 Java基础](modules/01-Java基础.md)
 - [02 Java集合](modules/02-Java集合.md)
@@ -12,5 +12,3 @@
 - [10 Linux与操作系统](modules/10-Linux与操作系统.md)
 - [11 设计模式](modules/11-设计模式.md)
 - [12 分布式与系统设计](modules/12-分布式与系统设计.md)
-
-配图保存在 `assets/`，移动或分享时请保留整个文件夹。
